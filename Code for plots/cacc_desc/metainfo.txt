@@ -1,4 +1,4 @@
-Name of QuantLet : cacc_desctable
+Name of QuantLet : cacc_desc
 
 Description : 'LVU thesis: This notebook creates the table for the descriptive statistics of the input features.'
 
