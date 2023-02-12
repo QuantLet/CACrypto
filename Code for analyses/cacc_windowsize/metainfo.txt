@@ -1,6 +1,6 @@
 Name of QuantLet : cacc_windowsize
 
-Description : 'LVU thesis: These notebooks analyzes the Conditional Autoencoder's performance for varying training window lengths.'
+Description : "LVU thesis: These notebooks analyzes the Conditional Autoencoder's performance for varying training window lengths."
 
 Keywords : asset, pricing, cryptocurrency, factor, risk, neural network, conditional, autoencoder
 
