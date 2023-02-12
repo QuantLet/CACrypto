@@ -1,0 +1,11 @@
+Name of QuantLet : CACrypto
+
+Published in : Hedging Cryptocurrency Options
+
+Description : 'Code infrastructure for final thesis - Blockchain Characteristics and Systematics Risk: A Neural Network Based Factor Model for Cryptocurrencies
+
+Keywords : asset, pricing, cryptocurrency, factor, risk, neural network, conditional, autoencoder
+
+Author : Lucas Valentin Umann 
+
+Submitted : Monday, February 13th, 2023 by Lucas Valentin Umann
