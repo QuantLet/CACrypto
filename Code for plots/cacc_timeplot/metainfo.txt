@@ -1,6 +1,6 @@
-Name of QuantLet : CACrypto
+Name of QuantLet : cacc_timeplot
 
-Description : 'Code infrastructure for final thesis - Blockchain Characteristics and Systematics Risk: A Neural Network Based Factor Model for Cryptocurrencies'
+Description : 'LVU thesis: This notebook creates the plots resulting from the analysis of pricing performance over time compared to CRIX returns.'
 
 Keywords : asset, pricing, cryptocurrency, factor, risk, neural network, conditional, autoencoder
 

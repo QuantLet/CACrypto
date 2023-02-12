@@ -1,0 +1,9 @@
+Name of QuantLet : cacc_premiadays
+
+Description : 'LVU thesis: This notebook analyzes the predictive performance of the Conditional Autoencoder for varying numbers of days used for the estimation of risk premia.'
+
+Keywords : asset, pricing, cryptocurrency, factor, risk, neural network, conditional, autoencoder
+
+Author : Lucas Valentin Umann 
+
+Submitted : Monday, February 13th, 2023 by Lucas Valentin Umann

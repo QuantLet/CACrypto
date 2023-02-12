@@ -1,0 +1,9 @@
+Name of QuantLet : cacc_comptable
+
+Description : 'LVU thesis: This notebook creates the table for the comparison of performance metrics between Instrumented Principal Component Analysis and Conditional Autoencoder.'
+
+Keywords : asset, pricing, cryptocurrency, factor, risk, neural network, conditional, autoencoder
+
+Author : Lucas Valentin Umann 
+
+Submitted : Monday, February 13th, 2023 by Lucas Valentin Umann

@@ -1,6 +1,6 @@
-Name of QuantLet : CACrypto
+Name of QuantLet : cacc_varimp
 
-Description : 'Code infrastructure for final thesis - Blockchain Characteristics and Systematics Risk: A Neural Network Based Factor Model for Cryptocurrencies'
+Description : 'LVU thesis: This notebook analyzes the variable importance for the estimation of conditional risk exposures.'
 
 Keywords : asset, pricing, cryptocurrency, factor, risk, neural network, conditional, autoencoder
 

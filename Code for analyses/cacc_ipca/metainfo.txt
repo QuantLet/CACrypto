@@ -1,6 +1,6 @@
-Name of QuantLet : CACrypto
+Name of QuantLet : cacc_ipca
 
-Description : 'Code infrastructure for final thesis - Blockchain Characteristics and Systematics Risk: A Neural Network Based Factor Model for Cryptocurrencies'
+Description : 'LVU thesis: This notebook calculates the performance of IPCA on the same data used for training of the Conditional Autoencoder.'
 
 Keywords : asset, pricing, cryptocurrency, factor, risk, neural network, conditional, autoencoder
 

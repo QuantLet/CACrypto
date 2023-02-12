@@ -1,0 +1,9 @@
+Name of QuantLet : cacc_windowplot
+
+Description : 'LVU thesis: This notebook creates the plots resulting from the analysis of different window sizes for the training of the Conditional Autoencoder.'
+
+Keywords : asset, pricing, cryptocurrency, factor, risk, neural network, conditional, autoencoder
+
+Author : Lucas Valentin Umann 
+
+Submitted : Monday, February 13th, 2023 by Lucas Valentin Umann
